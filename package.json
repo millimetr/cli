@@ -3,9 +3,9 @@
   "description": "Contains all CLI scripts used in millimetr projects",
   "version": "1.0.0",
   "license": "MIT",
-  "main": "index.js",
+  "main": "lib/index.js",
   "bin": {
-    "millimeter": "./index.js"
+    "millimeter": "./lib/index.js"
   },
   "dependencies": {
     "browser-sync": "^2.26.7",

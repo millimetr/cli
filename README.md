@@ -1,7 +1,7 @@
 <!-- omit in toc -->
 # 📏 millimetr-cli
 
-**Contains both build and develop scripts for millimetr projects**
+**Contains all CLI scripts used in millimetr projects**
 
 - [Files](#files)
   - [`index.js`](#indexjs)

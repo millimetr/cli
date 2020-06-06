@@ -5,7 +5,7 @@
   "license": "MIT",
   "main": "lib/index.js",
   "bin": {
-    "millimeter": "./lib/index.js"
+    "millimetr": "./lib/index.js"
   },
   "dependencies": {
     "browser-sync": "^2.26.7",

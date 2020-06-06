@@ -1,5 +1,5 @@
 <!-- omit in toc -->
-# ⚙️ cli
+# ⚙️ millimetr-cli
 
 **Contains all CLI scripts used in millimetr projects**
 

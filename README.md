@@ -8,6 +8,7 @@
   - [`core.js`](#corejs)
   - [`build.js`](#buildjs)
   - [`serve.js`](#servejs)
+- [Technologies](#technologies)
 
 ## Files
 
@@ -26,3 +27,12 @@ Runs `core.js` once.
 ### `serve.js`
 
 Runs `core.js` and then initialises a watcher script that reruns `core.js` if any files in the designated `input` directory changes. 
+
+
+## Technologies
+
+- [Watch](https://github.com/mikeal/watch) and [Browser Sync](https://www.browsersync.io/) used for live reloading during development.
+- [Chalk](https://github.com/chalk/chalk) and [Pluralize](https://github.com/blakeembrey/pluralize) is used to display pretty messages to the terminal/command-line.
+- [EJS](https://ejs.co) is used to compile EJS templates into HTML and [Pretty](https://github.com/jonschlinkert/pretty) is used to format output HTML.
+- [Yargs](https://yargs.js.org) is used to parse arguments passed via the terminal/command-line.
+- [fs-extra](https://github.com/jprichardson/node-fs-extra) is used to copy static folder into the root of the output.

@@ -1,6 +1,8 @@
 <!-- omit in toc -->
 # ⚙️ millimetr CLI
 
+[![](https://img.shields.io/npm/v/@millimetr/cli)](http://npm.im/@millimetr/cli) ![](http://npm.im/@millimetr/cli)
+
 **Contains all CLI scripts used in millimetr projects**
 
 - [Files](#files)
@@ -27,7 +29,6 @@ Runs `core.js` once.
 ### `serve.js`
 
 Runs `core.js` and then initialises a watcher script that reruns `core.js` if any files in the designated `input` directory changes. 
-
 
 ## Technologies
 

@@ -1,7 +1,7 @@
 <!-- omit in toc -->
 # ⚙️ millimetr CLI
 
-[![](https://img.shields.io/npm/v/@millimetr/cli)](http://npm.im/@millimetr/cli) ![](http://npm.im/@millimetr/cli)
+[![](https://img.shields.io/npm/v/@millimetr/cli)](http://npm.im/@millimetr/cli) ![](https://github.com/millimetr/cli/workflows/NPM%20Package/badge.svg)
 
 **Contains all CLI scripts used in millimetr projects**
 

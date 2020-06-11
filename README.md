@@ -1,5 +1,5 @@
 <!-- omit in toc -->
-# ⚙️ millimetr CLI
+# ⚙️ Millimetr CLI
 
 [![](https://img.shields.io/npm/v/@millimetr/cli)](http://npm.im/@millimetr/cli) ![](https://github.com/millimetr/cli/workflows/NPM%20Package/badge.svg)
 

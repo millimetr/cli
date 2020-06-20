@@ -1,7 +1,7 @@
 {
   "name": "@millimetr/cli",
   "description": "Contains all CLI scripts used in millimetr projects",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "license": "MIT",
   "main": "lib/index.js",
   "bin": {
